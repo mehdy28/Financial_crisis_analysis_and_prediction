@@ -25,6 +25,7 @@ pip install numpy pandas scikit-learn
 To install this project, clone the repository and navigate to the project directory:
 Copy code
 git clone https://github.com/mehdy28/Financial_crisis_analysis_and_prediction.git
+
 cd Financial_crisis_analysis_and_prediction
 
 # Usage
